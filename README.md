@@ -12,7 +12,7 @@
 <p align="center">
   <h2 align="center">Generative AI Specialist</b> &nbsp; | &nbsp; <b>Lifelong Learner</b> &nbsp; | &nbsp; <b>Enterprise Innovator</h2>
 </p>
-
+    
 ---
 
 ### 🚀 About My Journey
