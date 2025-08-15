@@ -6,11 +6,11 @@
 
 
 
-
+----------------------------------------
 
 <!-- Subtitle with emotive icons and skill highlights -->
 <p align="center">
-  <b>Generative AI Specialist</b> &nbsp; | &nbsp; <b>Lifelong Learner</b> &nbsp; | &nbsp; <b>Enterprise Innovator</b>
+  <h2 align="center">Generative AI Specialist</b> &nbsp; | &nbsp; <b>Lifelong Learner</b> &nbsp; | &nbsp; <b>Enterprise Innovator</h2>
 </p>
 
 ---
